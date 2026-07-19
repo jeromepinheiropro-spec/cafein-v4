@@ -15,9 +15,9 @@ export default {
         ink: "#141A17",
       },
       fontFamily: {
-        display: ['"Bricolage Grotesque Variable"', "sans-serif"],
-        body: ['"Figtree Variable"', "sans-serif"],
-        mono: ['"Space Mono"', "monospace"],
+        display: ["Poppins", "sans-serif"],
+        body: ["Poppins", "sans-serif"],
+        mono: ["Poppins", "sans-serif"],
       },
       borderRadius: { blob: "42% 58% 60% 40% / 45% 40% 60% 55%" },
     },
